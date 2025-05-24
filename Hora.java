@@ -1,6 +1,6 @@
 package TP03_Hora;
 
-
+//// trabalho feito por Gustavo Murai e Igor Murai
 import java.util.Scanner;
 
 public class Hora {
